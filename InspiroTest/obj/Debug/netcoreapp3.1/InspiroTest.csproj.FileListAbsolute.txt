@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\InspiroTest\InspiroTest\bin\Debug\netcoreapp3.1\InspiroTest.exe
+C:\Users\user\source\repos\InspiroTest\InspiroTest\bin\Debug\netcoreapp3.1\InspiroTest.deps.json
+C:\Users\user\source\repos\InspiroTest\InspiroTest\bin\Debug\netcoreapp3.1\InspiroTest.runtimeconfig.json
+C:\Users\user\source\repos\InspiroTest\InspiroTest\bin\Debug\netcoreapp3.1\InspiroTest.runtimeconfig.dev.json
+C:\Users\user\source\repos\InspiroTest\InspiroTest\bin\Debug\netcoreapp3.1\InspiroTest.dll
+C:\Users\user\source\repos\InspiroTest\InspiroTest\bin\Debug\netcoreapp3.1\InspiroTest.pdb
+C:\Users\user\source\repos\InspiroTest\InspiroTest\obj\Debug\netcoreapp3.1\InspiroTest.csprojAssemblyReference.cache
+C:\Users\user\source\repos\InspiroTest\InspiroTest\obj\Debug\netcoreapp3.1\InspiroTest.Form1.resources
+C:\Users\user\source\repos\InspiroTest\InspiroTest\obj\Debug\netcoreapp3.1\InspiroTest.csproj.GenerateResource.cache
+C:\Users\user\source\repos\InspiroTest\InspiroTest\obj\Debug\netcoreapp3.1\InspiroTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InspiroTest\InspiroTest\obj\Debug\netcoreapp3.1\InspiroTest.AssemblyInfo.cs
+C:\Users\user\source\repos\InspiroTest\InspiroTest\obj\Debug\netcoreapp3.1\InspiroTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InspiroTest\InspiroTest\obj\Debug\netcoreapp3.1\InspiroTest.dll
+C:\Users\user\source\repos\InspiroTest\InspiroTest\obj\Debug\netcoreapp3.1\InspiroTest.pdb
+C:\Users\user\source\repos\InspiroTest\InspiroTest\obj\Debug\netcoreapp3.1\InspiroTest.genruntimeconfig.cache

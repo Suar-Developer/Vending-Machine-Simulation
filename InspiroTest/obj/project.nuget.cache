@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "795pJfXA6e8ehsaEqRp7rNpLSO1IM4dHfMD8wOAkfujl9PxFqGG5ZFIq2PSGYD5Kdt5oEMD3ZuH9lFn9IwvlcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\InspiroTest\\InspiroTest\\InspiroTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
